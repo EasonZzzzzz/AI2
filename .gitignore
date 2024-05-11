@@ -1,0 +1,9 @@
+# ignore all files within venv directory
+venv/
+.vscode/
+__pycache__/
+app/__pycache__
+app/static/model/no_sync
+app/static/img/upload/no_sync
+tensorflow-2.15.0-cp39-cp39-macosx_10_15_x86_64.whl/
+.DS_Store/
